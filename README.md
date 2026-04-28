@@ -19,5 +19,14 @@ Prosta aplikacja quizowa na system Android. Użytkownik odpowiada na serię pyta
 
    Autor: Dagmara Kaszuba
 
+   <img width="222" height="508" alt="image" src="https://github.com/user-attachments/assets/d36ba769-45ee-45df-8014-2f1689c72522" />
+
+   <img width="229" height="502" alt="image" src="https://github.com/user-attachments/assets/a0d9b3a0-d0de-4c32-8e12-039f13bc1881" />
+
+   <img width="221" height="509" alt="image" src="https://github.com/user-attachments/assets/562a87f2-0169-4d60-8aa6-0062e15ca753" />
+
+
+
+
 
    
