@@ -1,33 +1,17 @@
-Mini Quiz
+# 🧠 Mini Quiz
 
-Opis
-Prosta aplikacja quizowa na Androida. Użytkownik odpowiada na pytania i na końcu wyświetlany jest wynik.
+## 📖 Opis
+Prosta aplikacja quizowa na system Android. Użytkownik odpowiada na serię pytań, a po ich zakończeniu na ekranie wyświetlany jest końcowy wynik.
 
-Funkcje
+## ✨ Funkcje
+* **5 pytań w quizie** – krótka i dynamiczna rozgrywka.
+* **Losowość pytań** – pytania są losowane z puli 10 dostępnych.
+* **Wybór odpowiedzi** – do każdego pytania przypisane są 3 warianty odpowiedzi do wyboru.
+* **Zliczanie punktów** – aplikacja na bieżąco śledzi postępy gracza.
+* **Kontrola gry** – wbudowane przyciski **Start** oraz **Reset**, pozwalające na swobodne zarządzanie quizem.
 
-5 pytań w quizie
+## 🚀 Jak uruchomić
 
-pytania losowane z puli 10 pytań
-
-3 odpowiedzi do wyboru
-
-zliczanie punktów
-
-przycisk start i reset
-
-Jak uruchomić
-Sklonuj repozytorium, wpisując w terminalu:
-git clone https://github.com/dagmii20/mini_quiz_kaszuba.git
-
-Otwórz projekt w Android Studio i uruchom aplikację.
-
-Pliki
-
-MainActivity.java
-
-Question.java
-
-activity_main.xml
-
-Autor
-Dagmara Kaszuba
+1. Sklonuj repozytorium na swój dysk lokalny, wpisując w terminalu poniższą komendę:
+   ```bash
+   git clone [https://github.com/dagmii20/mini_quiz_kaszuba.git](https://github.com/dagmii20/mini_quiz_kaszuba.git)
