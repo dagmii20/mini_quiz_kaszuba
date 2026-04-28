@@ -1,6 +1,6 @@
-# 🧠 Mini Quiz
+# Mini Quiz
 
-## 📖 Opis
+## Opis
 Prosta aplikacja quizowa na system Android. Użytkownik odpowiada na serię pytań, a po ich zakończeniu na ekranie wyświetlany jest końcowy wynik.
 
 ## ✨ Funkcje
@@ -10,8 +10,13 @@ Prosta aplikacja quizowa na system Android. Użytkownik odpowiada na serię pyta
 * **Zliczanie punktów** – aplikacja na bieżąco śledzi postępy gracza.
 * **Kontrola gry** – wbudowane przyciski **Start** oraz **Reset**, pozwalające na swobodne zarządzanie quizem.
 
-## 🚀 Jak uruchomić
+##  Jak uruchomić
 
 1. Sklonuj repozytorium na swój dysk lokalny, wpisując w terminalu poniższą komendę:
    ```bash
    git clone [https://github.com/dagmii20/mini_quiz_kaszuba.git](https://github.com/dagmii20/mini_quiz_kaszuba.git)
+
+   Autor: Dagmara Kaszuba
+
+
+   
